@@ -10,3 +10,5 @@ The PDF file is my analysis and the R markdown file contains my code.
 This project has inspired me to use other types of data to explore other sports and leagues to build a sports betting algorithm. 
 
 This analysis and code can definitely be improved. Please feel free to look through the analysis or the code. 
+
+The data is not mine. The dataset is from Kaggle. "FIFA 20 complete player dataset"
